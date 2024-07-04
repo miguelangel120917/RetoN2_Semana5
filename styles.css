@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(0, 100%, 74%);
+}
+
+.container{
+    width: 365px;
+	border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 125px;
+	overflow: hidden;
+}
+
+    
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+p{
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: 'Poppins';
+}
+
+.bt1{
+    background-color: hsl(248, 32%, 49%);
+    border-radius: 10px;
+    border: none;
+    padding: 20px 80px;
+    margin-bottom: 15px;
+    color: aliceblue;
+    width: 100%;
+    font-family: 'Poppins';
+    
+    
+}
+.free{
+    font-weight: bold; 
+}
+
+
+.Formulario{
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+    color: aliceblue;
+}
+
+.campo {
+    width: 100%;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px groove #EAECEE;
+    font-weight: bold;
+    font-family: 'Poppins';
+   
+}
+
+.bt2{
+    background-color: hsl(154, 59%, 51%);
+    border-radius: 5px;
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: aliceblue;
+    width: 100%;
+    text-transform: uppercase; 
+    font-weight: bold;  
+    font-size: 90%;
+}
+
+.aviso{
+    color: hsl(246, 25%, 77%);
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 10px;
+    font-family: 'Poppins';
+    
+}
+
+.termino{
+    color: hsl(0, 100%, 74%);
+    font-family: 'Poppins';
+    font-weight: bold;  
+}
